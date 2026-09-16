@@ -7,7 +7,6 @@ Run with:  streamlit run app.py
 import streamlit as st
 import time
 import random
-import base64
 import io
 
 # ─── Page config must be first Streamlit call ───────────────────────────────
