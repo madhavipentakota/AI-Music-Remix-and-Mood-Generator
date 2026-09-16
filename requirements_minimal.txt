@@ -1,0 +1,11 @@
+streamlit>=1.28.0
+numpy>=1.24.0
+scipy>=1.10.0
+pydub>=0.25.1
+librosa>=0.10.0
+soundfile>=0.12.1
+matplotlib>=3.7.0
+plotly>=5.15.0
+pretty_midi>=0.2.9
+midiutil>=1.2.1
+Pillow>=9.0.0
